@@ -1,0 +1,6 @@
+{
+  "name": "SkillWallet",
+  "description": "An interactive project dashboard for the ShopEZ E-commerce Application with interactive task checklists, requirements acceptance flows, dynamic Kanban board, and a built-in AI Coding Mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
